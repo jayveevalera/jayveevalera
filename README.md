@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayveevalera
-- 👀 I’m interested in Design.
+- 👀 I’m interested in Web Design.
 - 🌱 I’m currently learning.
 
 
